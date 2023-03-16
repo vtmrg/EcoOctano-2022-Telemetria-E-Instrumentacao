@@ -1,5 +1,5 @@
 # EcoOctano 2022-Telemetria E Instrumentação
- The goal of the project was to develop a telemetry system for the science outreach team Eco Octano from Universidade Federal do Paraná (UFPR). The developed project enables all members to access the data acquired by the sensors, allowing for a more accurate measurement of the car's efficiency. Also, it provides a cleaner interface for the driver and more reliable instrumentation.
+ The goal of the project was to develop a telemetry system for the science outreach team Eco Octano from Universidade Federal do Paraná (UFPR). The developed project enables all the team members to access the data acquired by the sensors, allowing for a more accurate measurement of the car's efficiency. Also, it provides a cleaner interface for the driver and more reliable instrumentation.
 
 ## About the project
  We built our project based on IoT: we wanted to connect our microcontrollers and integrate their data in a platform that could be accessed anywhere by any team member on any device. That platform will join and analyse all the data to share the information with the application that we built.
